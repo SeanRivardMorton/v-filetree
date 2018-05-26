@@ -9,7 +9,7 @@
 
 > place this in `<template>`
 
-```<masv-file-tree class="item" :model="treeData"></masv-file-tree>```
+```<masv-file-tree :model="treeData"></masv-file-tree>```
 
 > Place this in `<script lang="ts"`
 
