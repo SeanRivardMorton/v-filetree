@@ -7,11 +7,11 @@
 
 # Example usage:
 
-> place this in `template`
+> place this in `<template>`
 
 ```<masv-file-tree class="item ma-5 pa-5" :model="treeData"></masv-file-tree>```
 
-> Place this in `script`
+> Place this in `<script lang="ts"`
 
 ```
 export default class extends Vue {
